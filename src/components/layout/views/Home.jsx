@@ -18,7 +18,7 @@ const Home = () => {
                     <div className='slider-text-inner js-fullheight'>
                       <div className='desc'>
                         <h1>
-                          I am <br />a Web Developer
+                          I am <br />a Web Developer.
                         </h1>
 
                         <p>
