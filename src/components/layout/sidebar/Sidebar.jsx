@@ -23,7 +23,7 @@ const Sidebar = () => {
           <div
             className='author-img'
             style={{
-              backgroundImage: `url(${require("../../../images/me.jpeg")})`,
+              backgroundImage: `url(${require("../../../images/Ali.jpeg")})`,
             }}
           ></div>
           <h1 id='colorlib-logo'>
