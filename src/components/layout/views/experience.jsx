@@ -29,7 +29,6 @@ const Languges = () => {
                     <div className='timeline-label'>
                       <h2>
                         <a href='/'>Arabic</a>
-                        {""} <span>Mother Language</span>
                       </h2>
                       <p>
                         <div
@@ -46,7 +45,7 @@ const Languges = () => {
                                 aria-valuemax='100'
                                 style={{ width: "100%" }}
                               >
-                                <span> MOTHER LANGUAGES </span>
+                                <span> "MOTHER LANGUAGES "</span>
                               </div>
                             </div>
                           </div>
@@ -83,7 +82,7 @@ const Languges = () => {
                                 aria-valuemax='100'
                                 style={{ width: "60%" }}
                               >
-                                <span> Work Efficiently</span>
+                                <span> "Work Efficiently"</span>
                               </div>
                             </div>
                           </div>
