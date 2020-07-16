@@ -46,7 +46,7 @@ const Languges = () => {
                                 aria-valuemax='100'
                                 style={{ width: "100%" }}
                               >
-                                <span>100%</span>
+                                <span> MOTHER LANGUAGES </span>
                               </div>
                             </div>
                           </div>
@@ -81,9 +81,9 @@ const Languges = () => {
                                 aria-valuenow='75'
                                 aria-valuemin='0'
                                 aria-valuemax='100'
-                                style={{ width: "75%" }}
+                                style={{ width: "60%" }}
                               >
-                                <span>75%</span>
+                                <span> Work Efficiently</span>
                               </div>
                             </div>
                           </div>
@@ -103,7 +103,7 @@ const Languges = () => {
                     </div>
                     <div className='timeline-label'>
                       <h2>
-                        <a href='/'>Germany</a> {""} <span>B2 Niveau</span>
+                        <a href='/'>Germany</a> <span>B2 Niveau</span>
                       </h2>
                       <p>
                         <div
@@ -122,7 +122,7 @@ const Languges = () => {
 
                                 // style='width:80%'
                               >
-                                <span>60%</span>
+                                <span> Work Efficiently</span>
                               </div>
                             </div>
                           </div>
@@ -157,9 +157,9 @@ const Languges = () => {
                                 aria-valuenow='80'
                                 aria-valuemin='0'
                                 aria-valuemax='100'
-                                style={{ width: "80%" }}
+                                style={{ width: "60%" }}
                               >
-                                <span>80%</span>
+                                <span> Work Efficiently</span>
                               </div>
                             </div>
                           </div>
